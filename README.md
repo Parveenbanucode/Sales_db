@@ -1,4 +1,4 @@
-# 🛒 Sales_db - MySQL Project
+#Sales_db - MySQL Project
 
 This project is a sample SQL-based database for managing a *retail sales system*, built using MySQL. It covers customer information, product details, orders, payments, and employee management, along with stored procedures and views for analysis.
 
@@ -51,36 +51,3 @@ The database includes 7 main tables:
 
 ---
 
-## 💾 How to Use
-
-1. Import the SQL files into your MySQL server in this order:
-   - create_tables.sql
-   - insert_data.sql
-   - stored_procedures.sql
-   - views.sql
-
-2. Use any MySQL client like:
-   - *XAMPP/phpMyAdmin*
-   - *MySQL Workbench*
-   - *DBeaver*
-
----
-
-## 📊 Skills Applied
-
-- Relational DB Design  
-- SQL Joins, Grouping, Aggregates  
-- Views & Stored Procedures  
-- Data Analysis with SQL
-
----
-
-## 🔗 Author
-
-*Parveen Banu*  
-Final Year BCA Student  
-Interested in Data Analytics | SQL | Python | Power BI
-
----
-
-⭐ Give this project a star if you find it helpful!
